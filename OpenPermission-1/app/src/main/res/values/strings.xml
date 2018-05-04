@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenPermission</string>
+    <string name="Title">開啟權限的範例</string>
+</resources>
